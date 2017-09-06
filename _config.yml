@@ -1,11 +1,11 @@
 theme: jekyll-theme-slate
 ## Welcome to the github page of Devvveci
 
-You can use the .. to maintain and preview the content of your website in markdown files.
+You can use the to maintain and preview the content of your website in markdown files.
 
 Whenever you commit to this repository, Github Pages will run ... to rebuild pages in your site, from the content in your markdown files. 
 
-## Markdown
+### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for 
 
